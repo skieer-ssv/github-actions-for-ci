@@ -1,1 +1,2 @@
-name: Team Crazy Integrations approval workflow
+name: Team Crazy Integration's approval workflow
+on: [pull_request_review]
